@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\Doctor's Database.mdf
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\Doctor's Database_log.ldf
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\Doctor's System.exe.config
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\Doctor's System.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\Doctor's System.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor's System.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor_s_System.Input.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor_s_System.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor's System.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor's System.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor's System.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor_s_System.Data.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor_s_System.Authorization.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor_s_System.Doctor_registration.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Doctor's System\obj\Debug\Doctor's System.csproj.CopyComplete
